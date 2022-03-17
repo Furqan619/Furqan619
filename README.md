@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Furqan619
 - 👀 I’m interested in Web development
-- 🌱 I’m currently working on Fullstack web development
-- 💞️ I’m looking to collaborate with remote projects as a freelancer
+- 🌱 I’m currently working on Frontend web development
+- 💞️ I’m looking to Join full time job or collaborate with remote projects as a freelancer
 - 📫 How to reach me? Just ping me at md.furqan127@gmail.com
 
 <!---
